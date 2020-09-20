@@ -1,10 +1,10 @@
-#Kmail
+## Kmail
 
 Flutter Email Application Design(Gmail App Clone)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-#Req
+## Req
     Any Operating System (ie. Linux, Windows,MacOS X).
     Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc).
     A little knowledge of Dart and Flutter Documentation.
